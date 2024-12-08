@@ -1,0 +1,13 @@
+langchain==0.3.7
+langchain_community==0.3.7
+langchain-core==0.3.19
+langgraph==0.2.53
+configobj==5.0.9
+huggingface_hub==0.26.2
+langchain_groq==0.2.1
+python-dotenv==1.0.1
+langchain-chroma==0.1.4
+langchain-huggingface==0.1.2
+pydantic==2.9.2 
+streamlit
+pypdf
